@@ -24,7 +24,7 @@ public class Test1 : MonoBehaviour
 
     bool checkCollision(string tag)
     {
-        if (tag == "Cube")
+        if (tag == "cube")
         {
             return true;
         }

@@ -3,7 +3,6 @@ using System.Collections;
 
 public class Test2 : MonoBehaviour
 {
-
     private string InputField = "Input";
 
     void OnGUI()
